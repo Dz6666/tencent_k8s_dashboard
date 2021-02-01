@@ -1,1 +1,1 @@
-# tencent_k8s_dashboard
+开发框架2.0使用说明：https://docs.bk.tencent.com/blueapps/USAGE.html
